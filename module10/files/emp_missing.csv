@@ -1,6 +1,6 @@
-EMPLOYEE_ID ,FIRST_NAME,LAST_NAME ,SALARY, DEPT, HIRE_YEAR, EVAL_SCORE
-198 ,Donald,OConnell,2500, HR, 2000, 70
-199 ,Douglas ,Grant ,, IT, 1995 , 20
-200 ,Jennifer,Whalen,3000, HR, 1998,
-201 ,Michael ,Hartstein,3500, ENG, 2002 , 75
-202 ,Pat ,Fay , 4000, PR, 2010, 44
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,SALARY,DEPT,HIRE_YEAR,EVAL_SCORE
+        198 ,Donald     ,OConnell  ,  2500 ,HR   ,     2000 ,        70
+        199 ,Douglas    ,Grant     ,       ,IT   ,     1995 ,        20
+        200 ,Jennifer   ,Whalen    ,  3000 ,HR   ,     1998 ,          
+        201 ,Michael    ,Hartstein ,  3500 ,ENG  ,     2002 ,        75
+        202 ,Pat        ,Fay       ,  4000 ,PR   ,     2010 ,        44
